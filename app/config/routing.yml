@@ -1,0 +1,6 @@
+daily_trends:
+    resource: "@DailyTrendsBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
